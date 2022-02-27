@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties propositions (for His Majesties comming to London) read, and debated, in the House of Commons on Munday the 13th of November, 1648. : Also the orders of the House of Commons in answer to the same. : With a copy of a letter from His Excellency the Lord Generall Fairfax. : And several propositions of the army, at the Generall Councell of the Army. / Published for the generall satisfaction of the whole kingdome.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79042</idno>
+            <idno type="STC">Wing C2721A</idno>
+            <idno type="STC">ESTC R202572</idno>
+            <idno type="EEBO-CITATION">45578239</idno>
+            <idno type="OCLC">ocm 45578239</idno>
+            <idno type="VID">172183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2616:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties propositions (for His Majesties comming to London) read, and debated, in the House of Commons on Munday the 13th of November, 1648. : Also the orders of the House of Commons in answer to the same. : With a copy of a letter from His Excellency the Lord Generall Fairfax. : And several propositions of the army, at the Generall Councell of the Army. / Published for the generall satisfaction of the whole kingdome.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1648,.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172183:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:172183:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:172183:2"/>
+            <!-- PDF PAGE 86 -->
+            <p>His Majeſties PROPOSITIONS (<hi>For His Majeſties comming to</hi> London) Read, and Debated, in the Houſe of COMMONS On Munday the 13th of November, 1648.</p>
+            <p>ALSO The Orders of the Houſe of Commons in Anſwer to the ſame.</p>
+            <p>WITH A Copy of a Letter from his Excel<g ref="char:EOLhyphen"/>lency the Lord Generall <hi>Fairfax.</hi>
+            </p>
+            <p>And the ſeveral Propoſitions of the Ar<g ref="char:EOLhyphen"/>my, at the <hi>Generall Councell of the Army.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed for the Generall ſatisfaction of the whole</hi> KINGDOME.</p>
+            <p>Printed for <hi>R. Smithurſt,</hi> neer Pye-corner 1648,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172183:3"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="1" facs="tcp:172183:3"/>
+            <!-- PDF PAGE 87 -->
+            <head>HIS <hi>Majeſties Propoſitions and Deſires,</hi> Read and Debated in the Houſe of Com<g ref="char:EOLhyphen"/>mons, on Munday 13 <hi>Novem.</hi> 1648.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <list>
+               <item>1.<seg rend="decorInit">T</seg>Hat his Majeſty may come to <hi>London,</hi> and be put into a condition of honour, free<g ref="char:EOLhyphen"/>dome, and ſafety.</item>
+               <item>2 That his Majeſty may have the faith of his two Houſes of Parliament, for his ſafety, and his Lands and Revenues to bee reſtored to him.</item>
+               <item>3 That his Majeſty may have allowance for ſuch part of his Revenues, as he ſhall paſſe away.</item>
+               <item>4 That an Act of Oblivion may be paſſed for a generall Indempnity, with ſuch limitations as ſhall be agreed on by His Majeſty and both Houſes of Parliament.</item>
+            </list>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae 13 Novemb. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>The Houſe of Commons have referred it to a Committee to draw-up ſomething to preſent for his Majeſties comming to <hi>London,</hi> and given Inſtructions for the terms. His Majeſty being already in freedome, honour, and ſafety at the Treaty.</p>
+               <p>It is Ordered by the Houſe of Commons in Parliament Aſſembled, That it be referred to a Committee, to conſider of his Majeſties deſires, concerning his Revenues, and the Parliament hath already Voted his Majeſty 100000 l. <hi>per an<g ref="char:EOLhyphen"/>num</hi> in lieu of the Court of Wards.</p>
+               <p>Ordered by the Commons in Parliament Aſſembled, That an Act of Oblivion ſhall be preſented to His Majeſty to be
+<pb n="2" facs="tcp:172183:4"/>
+                  <!-- PDF PAGE 88 -->paſſed, with ſuch limitations as ſhall be agreed on by both Houſes of Parliament. And accordingly a Committee was choſen to draw up a Bill for the ſaid Act, to be ſent to his Majeſty.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from the Lord <hi>Fairfax.</hi>
+               </head>
+               <opener>
+                  <salute>SIR</salute>
+               </opener>
+               <p>
+                  <hi>HAving had a meeting of divers Officers of the Army, I appre<g ref="char:EOLhyphen"/>hend their generall ſad Reſentment of the many preſſures now ly<g ref="char:EOLhyphen"/>ing upon the Kingdom, in particular, that of free Quarter, whereby they (and the Souldiers under their Command, who have faithfully ſerved their Generation) are even a burden to themſelves, becauſe they are ſo much to the poore Country, which is the more grievous to them, becauſe they have generally paid their Taxes, and yet the Army not en<g ref="char:EOLhyphen"/>abled to pay their Quarters, or provide themſelves neceſſaries againſt the injury of the approaching ſeaſon. I hoped ere this we ſhould have received ſome good fruit of your laſt being with us, the matters then agreed, being of ſuch publick concernment, and ſo much requiring ex<g ref="char:EOLhyphen"/>pedition. I deſire you to improve your utmoſt indevour for a quicke diſpatch in providing effectually for the premiſes, to prevent thoſe ill conſequences which otherwayes delay therein may produce. I requeſt you to communicate this to the Houſe: ſo hoping to hear ſpeedily from you, I remain</hi>
+               </p>
+               <closer>
+                  <signed>Your very aſſured Friend FAIRFAX.</signed> 
+                  <dateline>St, <hi>Albans</hi> 9 <date>Novemb. 1648.</date>
+                  </dateline>
+               </closer>
+               <trailer>For the Honoured <hi>Robert Scowen</hi> 
+                  <abbr>Eſq</abbr> in the Chaire of the Committee for the Army.</trailer>
+            </div>
+            <div type="petition">
+               <head>To His Excellency, <hi>Thomas</hi> Lord <hi>Fairfax,</hi> Generall of all Forces raiſed by the Parliament, in the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+               </head>
+               <head type="sub">The humble Petition of the Officers and Souldiers in Gol. <hi>Fleetwoods,</hi> Col. <hi>Whalies,</hi> and Col. <hi>Barkſteads</hi> Regiaments, under your Excellencies Command.</head>
+               <opener>Sheweth,</opener>
+               <p>THat through the bleſſing of God upon the Army, under your Excellencies Conduct, the enemies of this Nations
+<pb n="3" facs="tcp:172183:4"/>
+                  <!-- PDF PAGE 88 -->Peace and Freedom, have been twice ſubdued.</p>
+               <p>That as we ingaged in Judgment and Conſcience againſt them, to preſerve this Nation from ſlavery, ſo we hope the Par<g ref="char:EOLhyphen"/>liament (by whom we were invited to ingage) would have ex<g ref="char:EOLhyphen"/>ecuted Juſtice, upon the publike and grand Enemies thereof, and immediately have ſetled a juſt Government, under which e<g ref="char:EOLhyphen"/>very mans freedom, right &amp; propriety might have been preſerved</p>
+               <p>That your Petitioners had ſome hope of that happy fruit of their labours, hazard and expence of blood, when the Parlia<g ref="char:EOLhyphen"/>ment voted no more addreſſes to the King, and hereupon your Excellency and your Petitioners did teſtifie their approbation of thoſe Votes, and did ingage to adhere, and ſtand by them, in the ſettlment of the Nation without, &amp; againſt the King, or any other that ſhould partake with him, &amp; your Excellency &amp; your Petitioners received the thanke of both Houſes for the ſame.</p>
+               <p>That notwithſtanding a bloody War hath been ſince raiſed by the Prince his Commiſſion, a forraigne Nation invited to (which did) invade us (and as there is ground to beleeve) by the Kings conſent, thereby to inflave us, to his exorbitant will and luſt,</p>
+               <p>Yet when through the great mercy and favour of God, all their forces were ſuppreſt, inſtead of having our expectations anſwered (as to a juſt ſettlement) we find.</p>
+               <p>That the wicked and bloody deſignes of the Enemies of this kingdome ſtill continue, As of that of <hi>Ireland</hi> by <hi>Ormond,</hi> and that at home, threatning the lives of every wel-affected perſon. And this we humbly conceive they are the more imboldned un<g ref="char:EOLhyphen"/>to, becauſe of the prevalency of ſome in greateſt Authority, that will let no Juſtice be don upon the grand fomentors, contrivers and actors, in the firſt and late Warre. So that the Innocent blood of many of our dear friends (that hath been ſpilt) the ra<g ref="char:EOLhyphen"/>pines, robberies, burning and ſpoiling many welaffected towns and perſons, of all livelihood, is forgotten, juſt Government ſubverted, and ſuch petitions tending to a ſetling of a juſt &amp; e<g ref="char:EOLhyphen"/>quall Government, (as that of the 12 of Septem. laſt, from the Cities of <hi>London</hi> and <hi>Weſtminſter</hi>) ſleighted, the intolerable bur<g ref="char:EOLhyphen"/>then of free Quarter ſtill continued, no redreſſe of publick grie<g ref="char:EOLhyphen"/>vances, by reaſon of which the implacable malice of our twice
+<pb n="4" facs="tcp:172183:5"/>
+                  <!-- PDF PAGE 89 -->conquered Enemies, ſeems to ſteal credit in the hearts of many) whoſe weaknes hinders them from diſcern<g ref="char:EOLhyphen"/>ing their evill ends) ſo that their bloody intentions againſt the well-affected in this Nation, doth begin to manifeſt it ſelfe, both againſt Parliament men and the Army, as is apparent by that moſt deſperate and in<g ref="char:EOLhyphen"/>humain murthering of Col. <hi>Rainsborough.</hi>
+               </p>
+               <p>That we conceive, your Excellency and the Army, next under God, are the only Bar, that lyeth in their way, hindring the accompliſhing of their ends: ſo their main deſign is, how to deſtroy you and it. And that they endeavour by continuing us on free quarter, yet providing Ordinances, againſt it, and Inſtructions to enter into no mans houſe (except Innes, Ale-houſes, &amp; Taverns) againſt their wills, which was by us joyful<g ref="char:EOLhyphen"/>ly excepted, that thereby the Country might be eaſed of that devouring Creature Free-Quarter, yet when the Army was thus quartered for the eaſe of the Coun<g ref="char:EOLhyphen"/>try, we were content to make hard ſhift to maintaine our ſelves out of our pay though it was ſmall, 2 s. <hi>per diem</hi> for horſe, and 8 d. for foot, but that through the ſubtilty of our Enemies, hath been kept from us, we having not received any pay in ſix months together. So that we muſt either ſtarve and lye in the ſtreets, or elſe ſtill oppreſſe the Country by Free-Quarter, which renders us odious to the people. And it cannot be o<g ref="char:EOLhyphen"/>therwiſe, ſeeing the Aſſeſſements of 60000 l. <hi>per men<g ref="char:EOLhyphen"/>ſem,</hi> if it were all aſſeſſed and gathered (beſides mony for providing Armes for the Horſe and Foot, Recruit Horſes, Ammunition for the Army and Garriſons, Clothes, Stockings, Shooes for Foot Souldiers, and other incident Charges) will not amount to the Per<g ref="char:EOLhyphen"/>ſonall
+<pb n="5" facs="tcp:172183:5"/>
+                  <!-- PDF PAGE 89 -->Pay of the Army by 12000 <hi>lib. per menſem.</hi>
+               </p>
+               <p>Now we being preſſed in our judgements, by our Enemies helliſh and Bloudy deſignes; and their inſolent and barba<g ref="char:EOLhyphen"/>rous Carriage, and alſo our hearts burthened with the un<g ref="char:EOLhyphen"/>ſetled condition of this poor Kingdom, are bold to preſent to your Excellencies conſideration theſe things following.</p>
+               <list>
+                  <item>1. That ſpeedy and impartiall Juſtice may be executed upon all fomenters, contrivers, and actors in the firſt and late War.</item>
+                  <item>2. That Inquiſition be made for the bloud of <hi>Rainsbo<g ref="char:EOLhyphen"/>rough.</hi>
+                  </item>
+                  <item>3. That the ſupream power may be declared and deter<g ref="char:EOLhyphen"/>mined, that the want thereof may not bee the ground of future, (as it hath been of theſe former) Wars.</item>
+                  <item>4. That a period may be ſet for this preſent Parliment to end as ſoon as may be with ſafety, and proviſions made for future Parliaments to meet certain without writ or ſumons</item>
+                  <item>5. That rules may be ſet down between the People and their Repreſentatives.</item>
+                  <item>6. That Laws may be made in things civill to bind all men, ſo that men in no caſe of offence, may be freed from the Law whereunto another is ſubject.</item>
+                  <item>7. That all thoſe common grievances and deſires in our Declarations of <hi>June</hi> 14. and <hi>June</hi> 23. 1647. and expreſſed in the <hi>London</hi> Petition, be ſpeedily granted and redreſſed.</item>
+                  <item>8. That preſent proviſion be made for conſtant pay of the Army.</item>
+                  <item>9. That the Arrears due from the 14. of <hi>Ianuary,</hi> may bee paid off, before we be commanded to pay Quarters, and that there may be no other abatement from Officers or Souldiers for free quarter, then according to the rates ſet downe in the Ordinance of Parliament, of the 14. day of <hi>December</hi> laſt.</item>
+                  <item>10. That the Country may be paid for our free quarter, according to the Deduction out of our pay out of their Aſſeſ<g ref="char:EOLhyphen"/>ments.</item>
+                  <item>11. That in as much as the Aſſeſments fall ſhort to pay the Army; That therefore there may be Additionall ſupplies out of the Eſtates of the old and new Delinquents, that there bee
+<pb n="6" facs="tcp:172183:6"/>
+                     <!-- PDF PAGE 90 -->no more Tax or Charge to the Common-wealth.</item>
+                  <item>12. That forthwith an account be called for from all per<g ref="char:EOLhyphen"/>ſons that have been betruſted with any thing for the State, that the Kingdom may be ſatisfied therein.</item>
+                  <item>13 That the Deanes and Chapters Lands may be given to pay the Souldiers Arrears, ſeeing the Parliament have given a<g ref="char:EOLhyphen"/>way the Delinquents Eſtates that ſhould have done it.</item>
+               </list>
+               <p>Theſe things being the proper iſſue of our ſerious thoughts, we implore your Excellency through the many bleſsings, deli<g ref="char:EOLhyphen"/>verances, victories and ſucceſſes, the Lord hath crowned you withall, The dangers you have been preſerved from, the miſe<g ref="char:EOLhyphen"/>ries of this bleeding Nation, the blood of the innocent, the out<g ref="char:EOLhyphen"/>cry of the Widdow, and Fatherleſſe, the ſad omen of future troubles, to conſider the neceſſity of attaining theſe things, that we may be no longer the ſcorn and contempt of the Nation, nor object of our Enemies malice, by the want of juſt peacce and ſettlement; but with an undaunted courage, to deſire the Parliament that theſe things may be forthwith eſtabliſhed, that w<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may with ſafety be releaſed, from this troubleſome and ha<g ref="char:EOLhyphen"/>zardous imploiment, which by reaſon of the grivous oppreſſion thereof, we profeſſe we are weary of which things we chal<g ref="char:EOLhyphen"/>lenge as ours and the Kingdoms due, twice bought with our blood. In the doing which your Excellency ſhal not fail of their aſſiſtance who are ready to wade through a Sea of troubles, to have them eſtabliſhed, though they periſh in the work.</p>
+               <closer>And your Petitioners ſhall pray, &amp;c.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172183:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
